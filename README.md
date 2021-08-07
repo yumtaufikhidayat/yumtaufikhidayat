@@ -1,4 +1,4 @@
-### Hi there! 👋 **Taufik Hidayat** is here.
+### Hi there 👋. **Taufik Hidayat** is here!.
 
 I am an Android Developer who loves to build and develop awesome application. I am enjoying using Kotlin as my primary programming language and Architecture Components by Google to build awesome Android application. Currently, I am learning another Architecture Components and Android Jetpack materials to improve my abilities and skills as an Android Developer.
 
