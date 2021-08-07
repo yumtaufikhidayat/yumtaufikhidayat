@@ -42,7 +42,7 @@
 &nbsp;
 &nbsp;
 <a href="https://github.com/square/retrofit">
-  <img align="center" alt="Retrofit" width="21px" src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" />
+  <img align="center" alt="Retrofit" title="Retrofit" width="21px" src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" />
 </a>
 <br/>
 <br/>
