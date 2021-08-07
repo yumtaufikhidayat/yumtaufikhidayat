@@ -1,6 +1,6 @@
 ### Hi there 👋. **Taufik Hidayat** is here!.
 
-I am an Android Developer who loves to build and develop awesome application. I am enjoying using Kotlin as my primary programming language and Architecture Components by Google to build awesome Android application. Currently, I am learning another Architecture Components and Android Jetpack materials to improve my abilities and skills as an Android Developer.
+I am an Android Developer who loves to build and develop awesome applications. I am enjoying using Kotlin as my primary programming language and Architecture Components by Google to build awesome Android applications. Currently, I am learning another Architecture Components and Android Jetpack materials to improve my abilities and skills as an Android Developer.
 
 - 🔭 I’m currently working on PT Rute Lintas Indonesia and PT Edukasi Rekanan Anda as Android Developer.
 - 🌱 I’m currently learning [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) on Dicoding.
