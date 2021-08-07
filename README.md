@@ -14,14 +14,8 @@
   - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid s.d. April 2023)
   - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid s.d April 2023)
 
-<p align="left">
-<a href="https://github.com/yumtaufikhidayat">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yumtaufikhidayat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumtaufikhidayat&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### Tech Stacks ###
 
-## Tech Stacks ##
 <a href="https://developer.android.com/studio">
   <img align="center" alt="Android Studio" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/android-studio.svg" />
 </a>
@@ -50,4 +44,14 @@
 <a href="https://github.com/square/retrofit">
   <img align="center" alt="Retrofit" width="21px" src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" />
 </a>
+<br/>
+<br/>
+
+### Github Statistics ###
+<p align="left">
+<a href="https://github.com/yumtaufikhidayat">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yumtaufikhidayat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumtaufikhidayat&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br/>
