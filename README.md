@@ -9,8 +9,8 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](t.me/yumtaufik), [Email](yumtaufikhidayat@gmail.com).
 - ⚡ Fun fact 1: You can reach my another portofolio on [Play Store](https://play.google.com/store/apps/dev?id=5667961808037787969).
 - ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
-  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid s.d. Maret 2024)
-  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid s.d. Juni 2022)
+  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid s.d. March 2024)
+  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid s.d. June 2022)
   - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid s.d. April 2023)
   - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid s.d April 2023)
 
