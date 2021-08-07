@@ -17,27 +17,27 @@
 ### Tech Stacks ###
 
 <a href="https://developer.android.com/studio">
-  <img align="center" alt="Android Studio" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/android-studio.svg" />
+  <img align="center" alt="Android Studio" title="Android Studio" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/android-studio.svg" />
 </a>
 &nbsp;
 &nbsp;
 <a href="https://kotlinlang.org/">
-  <img align="center" alt="Kotlin" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/kotlin.svg" />
+  <img align="center" alt="Kotlin" title="Kotlin" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/kotlin.svg" />
 </a>
 &nbsp;
 &nbsp;
 <a href="https://www.java.com/en/">
-  <img align="center" alt="Java" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/java.svg" />
+  <img align="center" alt="Java" title="Java" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/java.svg" />
 </a>
 &nbsp;
 &nbsp;
 <a href="https://firebase.google.com/">
-  <img align="center" alt="Firebase" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/firebase.svg" />
+  <img align="center" alt="Firebase" title="Firebase" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/firebase.svg" />
 </a>
 &nbsp;
 &nbsp;
 <a href="https://cloud.google.com/">
-  <img align="center" alt="Google Maps" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/google-maps.svg" />
+  <img align="center" alt="Google Maps" title="Google Maps" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/google-maps.svg" />
 </a>
 &nbsp;
 &nbsp;
@@ -54,4 +54,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumtaufikhidayat&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br/>
