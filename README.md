@@ -1,4 +1,4 @@
-### Hi there 👋 **Taufik Hidayat** is here.
+### Hi there! 👋 **Taufik Hidayat** is here.
 
 - 🔭 I’m currently working on PT Rute Lintas Indonesia and PT Edukasi Rekanan Anda as Android Developer.
 - 🌱 I’m currently learning [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) on Dicoding.
