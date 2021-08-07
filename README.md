@@ -1,16 +1,19 @@
 ### Hi there! 👋 **Taufik Hidayat** is here.
 
+I am an Android Developer who loves to build and develop awesome application. I am enjoying using Kotlin as my primary programming language and Architecture Components by Google to build awesome Android application. Currently, I am learning another Architecture Components and Android Jetpack materials to improve my abilities and skills as an Android Developer.
+
 - 🔭 I’m currently working on PT Rute Lintas Indonesia and PT Edukasi Rekanan Anda as Android Developer.
-- 🌱 I’m currently learning [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) on Dicoding.
-- 👯 I’m looking to collaborate on Android project.
+- 🌱 I’m currently learning [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) on Dicoding.
+- 👯 I’m looking to collaborate on Android project. Feel free to discuss with me!.
 - 💬 Ask me about Android and Kotlin. I will give you my best.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](t.me/yumtaufik), [Email](yumtaufikhidayat@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](t.me/yumtaufik), [Email](yumtaufik1997@gmail.com).
 - ⚡ Fun fact 1: You can reach my another portofolio on [Play Store](https://play.google.com/store/apps/dev?id=5667961808037787969).
 - ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
-  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid s.d. March 2024)
-  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid s.d. June 2022)
-  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid s.d. April 2023)
-  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid s.d April 2023)
+  - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid till August 2024)
+  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid till March 2024)
+  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid till June 2022)
+  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid till April 2023)
+  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid till April 2023)
 
 ### Tech Stacks ###
 
