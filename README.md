@@ -6,7 +6,7 @@ I am an Android Developer who loves to build and develop awesome applications. I
 - 🌱 I’m currently learning [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) on Dicoding.
 - 👯 I’m looking to collaborate on Android project. Feel free to discuss with me!.
 - 💬 Ask me about Android and Kotlin. I will give you my best.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), [Email](yumtaufik1997@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
 - ⚡ Fun fact 1: You can reach my another portofolio on [Play Store](https://play.google.com/store/apps/dev?id=5667961808037787969).
 - ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
   - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid till August 2024)
