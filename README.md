@@ -9,11 +9,11 @@ I am an Android Developer who loves to build and develop awesome applications. I
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
 - ⚡ Fun fact 1: You can reach my another portofolio on [Play Store](https://play.google.com/store/apps/dev?id=5667961808037787969).
 - ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
-  - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid till August 2024)
-  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid till March 2024)
-  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid till June 2022)
-  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid till April 2023)
-  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid till April 2023)
+  - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid thru August 2024)
+  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid thru March 2024)
+  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid thru June 2022)
+  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid thru April 2023)
+  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid thru April 2023)
 
 ### Tech Stacks ###
 
