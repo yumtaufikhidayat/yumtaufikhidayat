@@ -16,7 +16,11 @@ I am an Android Developer who loves to build and develop awesome applications. I
   - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid thru April 2023)
 
 ### Tech Stacks ###
-
+<a href="https://developer.android.com/studio">
+  <img align="center" alt="Material Design" title="Material Design" width="21px" src="https://github.com/yumtaufikhidayat/yumtaufikhidayat/blob/main/material_design_logo.png" />
+</a>
+&nbsp;
+&nbsp;
 <a href="https://developer.android.com/studio">
   <img align="center" alt="Android Studio" title="Android Studio" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/android-studio.svg" />
 </a>
