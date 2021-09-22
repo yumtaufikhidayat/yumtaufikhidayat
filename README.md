@@ -2,7 +2,7 @@
 
 I am an Android Developer who loves to build and develop awesome applications. I am enjoying using Kotlin as my primary programming language and Architecture Components by Google to build awesome Android applications. Currently, I am learning another Architecture Components and Android Jetpack materials to improve my abilities and skills as an Android Developer.
 
-- 🔭 I’m currently working as Freelance Android Kotlin Trainer to teach Kotlin language and its technologies to others.
+- 🔭 I’m currently working as Android Kotlin Trainer to teach Kotlin language and its technologies to others.
 - 🌱 I’m currently learning [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) on Dicoding.
 - 👯 I’m looking to collaborate on Android project. Feel free to discuss with me!.
 - 💬 Ask me about Android and Kotlin. I will give you my best.
