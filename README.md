@@ -58,7 +58,7 @@ I am an Android Developer who loves to build and develop awesome applications. I
 &nbsp;
 &nbsp;
 <a href="https://developer.android.com/training/dependency-injection/hilt-android">
-  <img align="center" alt="Retrofit" title="Dagger Hilt" width="30px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/dagger_hilt.png" />
+  <img align="center" alt="Retrofit" title="Dagger Hilt" width="30px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/dagger_hilt.svg" />
 </a>
 <br/>
 <br/>
