@@ -37,11 +37,6 @@ I am an Android Developer who loves to build and develop awesome applications. I
 </a>
 &nbsp;
 &nbsp;
-<a href="https://www.java.com/en/">
-  <img align="center" alt="Java" title="Java" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/java.svg" />
-</a>
-&nbsp;
-&nbsp;
 <a href="https://firebase.google.com/">
   <img align="center" alt="Firebase" title="Firebase" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/firebase.svg" />
 </a>
