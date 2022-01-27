@@ -3,7 +3,7 @@
 I am an Android Developer who loves to build and develop awesome applications. I am enjoying using Kotlin as my primary programming language and Architecture Components by Google to build awesome Android applications. Currently, I am learning UX Design Fundamental, Architecture Components, and Android Jetpack materials to improve my abilities and skills as an Android Developer.
 
 - 🔭 I’m currently working on [PT KB Finansia Multi Finance](https://www.linkedin.com/company/pt-kb-finansia-multi-finance/mycompany).
-- 🌱 I’m currently learning [Belajar Dasar UX Design](https://www.dicoding.com/academies/335) on Dicoding.
+- 🌱 I’m currently learning [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/academies/237) on Dicoding.
 - 👯 I’m looking to collaborate on Android project. Feel free to discuss with me!.
 - 💬 Ask me about Android and Kotlin. I will give you my best.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
