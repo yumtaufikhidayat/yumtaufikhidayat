@@ -12,7 +12,7 @@ I am an Android Developer who loves to build and develop awesome applications. I
   - [Belajar Dasar UX Design](https://www.dicoding.com/academies/335) (valid thru January 2025)
   - [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) (valid thru October 2024)
   - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid thru August 2024)
-  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid thru March 2024)
+  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid thru May 2025)
   - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid thru January 2025)
   - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid thru April 2023)
   - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid thru April 2023)
