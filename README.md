@@ -4,7 +4,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 
 - 🔭 I’m currently working on [PT KB Finansia Multi Finance (Kredit Plus)](https://www.linkedin.com/company/pt-kb-finansia-multi-finance/mycompany).
 - 🌱 I’m currently making [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
-- 👯 I’m looking to collaborate on Android project. Feel free to discuss with me!.
+- 👯 I’m looking to collaborate on Android projects. Feel free to discuss with me!.
 - 💬 Ask me about Android and Kotlin. I'll give you my best.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
 - ⚡ Fun fact 1: You can reach my another portofolio on [Play Store](https://play.google.com/store/apps/dev?id=5667961808037787969).
@@ -54,11 +54,6 @@ I am an Android Developer who loves to build and develop awesome Android applica
 </a>
 &nbsp;
 &nbsp;
-<a href="https://developer.android.com/training/dependency-injection/hilt-android">
-  <img align="center" alt="Retrofit" title="Dagger Hilt" width="30px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/dagger_hilt.svg" />
-</a>
-<br/>
-<br/>
 
 ### Github Statistics ###
 <p align="left">
