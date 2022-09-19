@@ -1,6 +1,6 @@
 ### Hi there 👋. **Taufik Hidayat** is here!.
 
-I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin as primary programming language and using Architecture Components by Google to build awesome Android applications. Currently, I am learning UX Design Fundamental, Architecture Components, and Android Jetpack materials to improve my abilities and skills as an Android Developer.
+I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin as primary programming language and using Architecture Components by Google to build awesome Android applications. Currently, I am using Android Jetpack to improve my abilities and skills as an Android Developer.
 
 - 🔭 I’m currently working on [PT KB Finansia Multi Finance (Kredit Plus)](https://www.linkedin.com/company/pt-kb-finansia-multi-finance/mycompany).
 - 🌱 I’m currently making [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
