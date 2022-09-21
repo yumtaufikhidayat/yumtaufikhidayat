@@ -5,7 +5,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - 🔭 Currently, I’m working on [PT KB Finansia Multi Finance (Kredit Plus)](https://www.linkedin.com/company/pt-kb-finansia-multi-finance/mycompany).
 - 🌱 Currently, I’m making [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss with me!.
-- 💬 Ask me about Android and Kotlin. I'll give you my best.
+- 💬 Have a question about Android and Kotlin?. I'll give you my best POV.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
 - ⚡ Fun fact 1: You can reach my another portofolio on [Play Store](https://play.google.com/store/apps/dev?id=5667961808037787969).
 - ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
