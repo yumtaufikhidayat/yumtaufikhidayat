@@ -16,7 +16,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
   - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid thru August 2024)
   - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid thru May 2025)
   - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid thru January 2025)
-  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid thru April 2023)
+  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid thru Oct 2025)
   - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid thru April 2023)
 
 ### Tech Stacks ###
