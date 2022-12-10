@@ -4,7 +4,6 @@ I am an Android Developer who loves to build and develop awesome Android applica
 
 - 🔭 Currently, I’m working on [PT KB Finansia Multi Finance (Kredit Plus)](https://www.linkedin.com/company/pt-kb-finansia-multi-finance/mycompany).
 - 🌱 Currently, I’m making [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
-- 🌱 Currently, I’m developing [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt), a catalog application that have a plenty of movies and tv shows. Feel free to [download](https://play.google.com/store/apps/details?id=com.taufik.themovieshow) and find your favorite movies and tv shows.
 - 🌱 Currently, I'm learning [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/academies/445) from [Dicoding](www.dicoding.com) to keep my skills updated with latest Android Development and latest industrial needs.
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss with me!.
 - 💬 Have a question about Android and Kotlin?. I'll give you my best POV. Feel free to discuss together.
