@@ -9,7 +9,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - 💬 Have a question about Android and Kotlin?. I'll give you my best POV. Feel free to discuss together.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
 - ⚡ Fun fact 1: You can reach my another portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
-- ⚡ Fun fact 3: I have some certifications from Dicoding. They are:
+- ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
   - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/academies/352) (valid thru July 2025)
   - [Belajar Dasar UX Design](https://www.dicoding.com/academies/335) (valid thru January 2025)
   - [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) (valid thru October 2024)
