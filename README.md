@@ -56,7 +56,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 &nbsp;
 &nbsp;
 <a href="https://developer.android.com/jetpack/compose">
-  <img align="center" alt="Jetpack Compose" title="Jetpack Compose" width="21px" src="[https://avatars.githubusercontent.com/u/82592?s=200&v=4](https://github.com/yumtaufikhidayat/yumtaufikhidayat/blob/main/jetpack%20compose%20icon_RGB.png)" />
+  <img align="center" alt="Jetpack Compose" title="Jetpack Compose" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/jetpack%20compose%20icon_RGB.png" />
 </a>
 &nbsp;
 &nbsp;
