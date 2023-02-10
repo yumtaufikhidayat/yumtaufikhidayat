@@ -3,7 +3,7 @@
 I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin as primary programming language and using Android Jetpack to build awesome Android applications. Currently, I am using Android Jetpack to improve my abilities and skills as an Android Developer.
 
 - 🔭 Currently, I’m working on [PT KB Finansia Multi Finance (Kredit Plus)](https://www.linkedin.com/company/pt-kb-finansia-multi-finance/mycompany), a financial technology company, as an Android Developer.
-- 🌱 Currently, I’m making [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
+- 🌱 Currently, I’m developing [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss with me!.
 - 💬 Have a question about Android and Kotlin?. I'll give you my best POV. Feel free to discuss together.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufik1997@gmail.com.
