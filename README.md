@@ -59,6 +59,11 @@ I am an Android Developer who loves to build and develop awesome Android applica
 </a>
 &nbsp;
 &nbsp;
+<a href="https://developer.android.com/training/dependency-injection/hilt-android?hl=id">
+  <img align="center" alt="Dagger Hilt" title="Dagger Hilt" width="21px" src="https://github.com/yumtaufikhidayat/yumtaufikhidayat/blob/main/dagger_hilt.png" />
+</a>
+&nbsp;
+&nbsp;
 
 ### Github Statistics ###
 <p align="left">
