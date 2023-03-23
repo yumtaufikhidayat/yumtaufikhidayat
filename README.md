@@ -7,16 +7,6 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - 💬 Have a question about Android and Kotlin?. I'll give you my best POV. Feel free to discuss together.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufikhidayat@gmail.com.
 - ⚡ Fun fact 1: You can reach my another portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
-- ⚡ Fun fact 2: I have some certifications from Dicoding. They are:
-  - [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/academies/445) (valid thru January 2026)
-  - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/academies/352) (valid thru July 2025)
-  - [Belajar Dasar UX Design](https://www.dicoding.com/academies/335) (valid thru January 2025)
-  - [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) (valid thru October 2024)
-  - [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (valid thru August 2024)
-  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) (valid thru May 2025)
-  - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) (valid thru November 2025)
-  - [Belajar Dasar Pemrograman dengan Kotlin](https://www.dicoding.com/academies/80) (valid thru Oct 2025)
-  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/169) (valid thru April 2023)
 
 ### Tech Stacks ###
 <a href="https://developer.android.com/studio">
