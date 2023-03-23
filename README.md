@@ -6,7 +6,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss with me!.
 - 💬 Have a question about Android and Kotlin?. I'll give you my best POV. Feel free to discuss together.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufikhidayat@gmail.com.
-- ⚡ Fun fact 1: You can reach my another portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
+- ⚡ Fun fact: You can reach my portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
 
 ### Tech Stacks ###
 <a href="https://developer.android.com/studio">
