@@ -19,7 +19,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 &nbsp;
 &nbsp;
 <a href="https://developer.android.com/studio">
-  <img align="center" alt="Android Studio" title="Android Studio" width="21px" src="https://raw.githubusercontent.com/yumtaufikhidayat/yumtaufikhidayat/main/android-studio.svg" />
+  <img align="center" alt="Android Studio" title="Android Studio" width="21px" src="https://github.com/yumtaufikhidayat/yumtaufikhidayat/blob/main/android-studio.png" />
 </a>
 &nbsp;
 &nbsp;
