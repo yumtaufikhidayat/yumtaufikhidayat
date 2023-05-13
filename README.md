@@ -13,7 +13,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - ⚡ Fun fact: You can reach my portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
 
 ### Tech Stacks ###
-<a href="https://developer.android.com/studio">
+<a href="https://m3.material.io"/>
   <img align="center" alt="Material Design" title="Material Design" width="21px" src="https://github.com/yumtaufikhidayat/yumtaufikhidayat/blob/main/material_design_logo.png" />
 </a>
 &nbsp;
