@@ -1,7 +1,6 @@
 ### Hi there 👋. **Taufik Hidayat** is here!.
 
 I am an Android Developer who loves to build and develop awesome Android application. I usually using Kotlin as primary programming language and using Android Jetpack to build awesome Android application.
-- :building_construction: Currently, I’m learning on [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) class as part of [Android Learning Path](https://www.dicoding.com/learningpaths/7) to increase and sharpening my skills on Android Development.
 - :health_worker: Currently, I’m working on [Dicoding Indonesia](https://dicoding.com) as an External Code Reviewer on [Android Learning Path](https://www.dicoding.com/learningpaths/7) and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
 - 🌱 Currently, I’m developing some apps:
   - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt), a catalog application that has a lot of movies and TV shows. Want to try? You can download it [here](https://play.google.com/store/apps/details?id=com.taufik.themovieshow).
