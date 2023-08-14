@@ -8,7 +8,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
   - [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero), an Android application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
   
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss.
-- 💬 Have a question about Android and Kotlin?. Let's discuss and I'll give you my best POV.
+- 💬 Have a question about Android and Kotlin?. Let's discuss together and I'll give you my best POV.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufikhidayat@gmail.com.
 - ⚡ Fun fact: You can reach my portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
 
