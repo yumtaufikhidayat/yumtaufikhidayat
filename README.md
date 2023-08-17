@@ -59,6 +59,12 @@ I am an Android Developer who loves to build and develop awesome Android applica
 </a>
 &nbsp;
 &nbsp;
+<a href="https://github.com/features/actions">
+  <img align="center" alt="Github Actions" title="Github Actions" width="21px" src="https://github.com/yumtaufikhidayat/yumtaufikhidayat/blob/main/gh-actions.svg" />
+</a>
+&nbsp;
+&nbsp;
+
 
 ### Github Statistics ###
 <p align="left">
