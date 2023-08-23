@@ -3,11 +3,11 @@
 I am an Android Developer who loves to build and develop awesome Android application. I usually using Kotlin as primary programming language and using Android Jetpack to build awesome Android application.
 - :building_construction: I'm currently developing all new version of [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt). Please wait, I'll be coming back.
 - :books: Currently, I’m learning on [Memulai Pemrograman Dengan Python](https://www.dicoding.com/academies/86) class as part of [Machine Learning Learning Path](https://www.dicoding.com/learningpaths/30) to update my another skills on Data Science.
-- :health_worker: Currently, I’m working on [Dicoding Indonesia](https://dicoding.com) as an External Code Reviewer on [Android Learning Path](https://www.dicoding.com/learningpaths/7) and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
+- :health_worker: I’m currently working on [Dicoding Indonesia](https://dicoding.com) as an External Code Reviewer on [Android Learning Path](https://www.dicoding.com/learningpaths/7) and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
 - 🌱 Currently, I’m developing some apps:
-  - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt), a catalog application that has a lot of movies and TV shows. Want to try? You can download it [here](https://play.google.com/store/apps/details?id=com.taufik.themovieshow).
-  - [Gitser](https://github.com/yumtaufikhidayat/gitser-kt), a simple Github user application that using Github API. Want to try? Please download [here](https://play.google.com/store/apps/details?id=com.taufik.gitser).
-  - [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero), an Android application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
+  - 📽️ [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt), a catalog application that has a lot of movies and TV shows. Want to try? You can download it [here](https://play.google.com/store/apps/details?id=com.taufik.themovieshow).
+  - :octocat: [Gitser](https://github.com/yumtaufikhidayat/gitser-kt), a simple Github user application that using Github API. Want to try? Please download [here](https://play.google.com/store/apps/details?id=com.taufik.gitser).
+  - 🦸‍♂️ [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero), an Android application to help others learn Kotlin easily and fun. Curious? try prototype [here](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
   
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss.
 - 💬 Have a question about Android and Kotlin?. Let's discuss together and I'll give you my best POV.
