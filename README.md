@@ -1,5 +1,5 @@
 ### Hi there 👋. **Taufik Hidayat** is here!. **Nice to meet ya! 
-![](https://komarev.com/ghpvc/?username=yumtaufikhidayat)
+![](https://komarev.com/ghpvc/?username=yumtaufikhidayat&color=green&style=for-the-badge)
 
 I am an Android Developer who loves to build and develop awesome Android application. I usually using Kotlin as primary programming language and using Android Jetpack to build awesome Android application.
 - :building_construction: I'm currently developing all new version of [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) and [Gitser](https://github.com/yumtaufikhidayat/gitser-kt).
