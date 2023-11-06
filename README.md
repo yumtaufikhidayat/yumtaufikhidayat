@@ -1,7 +1,6 @@
-### Hi there 👋. Nice to meet ya! 
-![](https://komarev.com/ghpvc/?username=yumtaufikhidayat&color=green&style=for-the-badge)
+### Hi there 👋. Nice to meet ya!
 
-I am an Android Developer who loves to build and develop awesome Android application. I usually using Kotlin as primary programming language and using Android Jetpack to build awesome Android application.
+I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin as my primary programming language and using Android Jetpack libraries to build awesome Android applications.
 - :building_construction: I'm currently developing all new version of [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) and [Gitser](https://github.com/yumtaufikhidayat/gitser-kt).
 - :health_worker: I’m currently working on [Dicoding Indonesia](https://dicoding.com) as an External Code Reviewer on [Android Learning Path](https://www.dicoding.com/learningpaths/7) and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
 - 🌱 Currently, I’m developing some apps:
@@ -11,28 +10,31 @@ I am an Android Developer who loves to build and develop awesome Android applica
   
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss.
 - 💬 Have a question about Android and Kotlin?. Let's discuss together and I'll give you my best POV.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/taufik-hidayat), [Telegram](https://t.me/yumtaufik), yumtaufikhidayat@gmail.com.
-- ⚡ Fun fact: You can reach my portofolio on [Google Play](https://play.google.com/store/apps/dev?id=5667961808037787969).
+- 📫 Feel free to reach me on [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badges)](https://t.me/yumtaufik) [![GMail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badges)](mailto:yumtaufikhidayat@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badges)](https://wa.me/+6285296257704)
+- ⚡ Fun fact: You can reach my profile and portfolio on 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badges)](https://linkedin.com/in/taufik-hidayat)
+[![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badges)](https://medium.com/@yumtaufikhidayat)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white&style=for-the-badges)](https://play.google.com/store/apps/dev?id=5667961808037787969)
 
 ### Tech Stacks ###
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-5A79BA?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-A4C639?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![Crashlytics](https://img.shields.io/badge/Crashlytics-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![Realtime Database](https://img.shields.io/badge/Realtime_Database-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0000FF?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
-![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-5A79BA?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio/)
+[![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-A4C639?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Crashlytics](https://img.shields.io/badge/Crashlytics-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/products/crashlytics/)
+[![Realtime Database](https://img.shields.io/badge/Realtime_Database-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/products/realtime-database/)
+[![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps/)
+[![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)](https://square.github.io/retrofit/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose/)
+[![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0000FF?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/hilt-android/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions/)
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://developers.google.com/analytics/)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://jira.atlassian.com/)
 
 ### Github Statistics ###
 <p align="left">
