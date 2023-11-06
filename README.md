@@ -20,7 +20,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-5A79BA?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://developer.android.com/studio/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-A4C639?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/)
 [![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
