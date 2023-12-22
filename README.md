@@ -1,6 +1,6 @@
 ### Hi there 👋. Nice to meet ya!
 
-I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin as my primary programming language and using Android Jetpack libraries to build awesome Android applications.
+I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin and Android Jetpack libraries to build awesome Android applications.
 - :building_construction: I'm currently developing all new version of [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) and [Gitser](https://github.com/yumtaufikhidayat/gitser-kt).
 - :technologist: I’m currently working as part of BRImo Squad as an Android Developer at [PT Bank Rakyat Indonesia (Persero) Tbk](https://bri.co.id/).
 - :construction_worker_man: Also, I’m working at [Dicoding Indonesia](https://dicoding.com) as an External Code Reviewer on [Android Learning Path](https://www.dicoding.com/learningpaths/7) and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
