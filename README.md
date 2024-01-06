@@ -32,6 +32,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 [![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)](https://square.github.io/retrofit/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose/)
 [![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0000FF?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/hilt-android/)
+[![Dagger2](https://img.shields.io/badge/Dagger2-339933?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/dagger-android)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions/)
