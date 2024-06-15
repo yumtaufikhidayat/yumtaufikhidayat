@@ -19,6 +19,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 
 ### Tech Stacks ###
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
@@ -33,6 +34,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 [![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)](https://square.github.io/retrofit/)
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=square&logoColor=white)](https://www.tensorflow.org/lite)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose/)
+[![XML](https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)](https://developer.android.com/reference/android/util/Xml)
 [![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0000FF?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/hilt-android/)
 [![Dagger2](https://img.shields.io/badge/Dagger2-339933?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/dagger-android)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
