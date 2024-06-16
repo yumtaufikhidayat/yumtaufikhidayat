@@ -32,7 +32,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 [![Realtime Database](https://img.shields.io/badge/Realtime_Database-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/products/realtime-database/)
 [![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps/)
 [![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)](https://square.github.io/retrofit/)
-[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=square&logoColor=white)](https://www.tensorflow.org/lite)
+[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose/)
 [![XML](https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)](https://developer.android.com/reference/android/util/Xml)
 [![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0000FF?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/hilt-android/)
