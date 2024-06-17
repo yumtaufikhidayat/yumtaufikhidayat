@@ -12,10 +12,10 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss.
 - 💬 Have a question about Android and Kotlin?. Let's discuss together and I'll give you my best POV.
 - 📫 Feel free to reach me on [![GMail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yumtaufikhidayat@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yumtaufik) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/taufikhidayat#0671)
-- ⚡ Fun fact: You can reach my profile and portfolio on 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badges)](https://linkedin.com/in/taufik-hidayat)
-[![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badges)](https://medium.com/@yumtaufikhidayat)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white&style=for-the-badges)](https://play.google.com/store/apps/dev?id=5667961808037787969)
+- ⚡ Fun fact: You can reach my profile and portfolio on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufik-hidayat)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yumtaufikhidayat)
+[![Google_Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google_play&logoColor=white)](https://play.google.com/store/apps/dev?id=5667961808037787969)
 
 ### Tech Stacks ###
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
