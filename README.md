@@ -11,7 +11,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
   
 - 👯 I’m looking to collaborate on Android projects. Feel free to discuss.
 - 💬 Have a question about Android and Kotlin?. Let's discuss together and I'll give you my best POV.
-- 📫 Feel free to reach me on [![GMail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badges)](mailto:yumtaufikhidayat@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badges)](https://t.me/yumtaufik)
+- 📫 Feel free to reach me on [![GMail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yumtaufikhidayat@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yumtaufik)
 - ⚡ Fun fact: You can reach my profile and portfolio on 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badges)](https://linkedin.com/in/taufik-hidayat)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badges)](https://medium.com/@yumtaufikhidayat)
