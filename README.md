@@ -15,7 +15,7 @@ I am an Android Developer who loves to build and develop awesome Android applica
 - ⚡ Fun fact: You can reach my profile and portfolio on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufik-hidayat)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yumtaufikhidayat)
-[![Google_Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google_play&logoColor=white)](https://play.google.com/store/apps/dev?id=5667961808037787969)
+[![Google_Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=5667961808037787969)
 
 ### Tech Stacks ###
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
