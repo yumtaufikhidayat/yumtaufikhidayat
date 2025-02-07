@@ -2,7 +2,7 @@
 
 I am an Android Developer who loves to build and develop awesome Android applications. I usually using Kotlin and Android Jetpack libraries to build awesome Android applications.
 - :building_construction: I'm currently developing all new version of [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) and [Gitser](https://github.com/yumtaufikhidayat/gitser-kt). Also currently learning [Jetpack Compose](https://developer.android.com/develop/ui/compose) and Belajar [Back-End Pemula dengan Python](https://www.dicoding.com/academies/743) held by Dicoding.
-- :technologist: I’m currently working as part of BRImo Squad as an Android Developer at [PT Bank Rakyat Indonesia (Persero) Tbk](https://bri.co.id/).
+- :technologist: I’m currently working as part of BRImo Squad as an Android Developer at [PT Bank Tabungan Negara (Persero) Tbk](https://btn.co.id/).
 - :construction_worker_man: Also, I’m working at [Dicoding Indonesia](https://dicoding.com) as an External Code Reviewer on [Android Learning Path](https://www.dicoding.com/learningpaths/7), [Belajar Penerapan Machine Learning untuk Android](https://www.dicoding.com/academies/663), and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
 - 🌱 Currently, I’m developing some apps:
   - 📽️ [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt), a catalog application that has a lot of movies and TV shows. Want to try? You can download it [here](https://play.google.com/store/apps/details?id=com.taufik.themovieshow).
