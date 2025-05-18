@@ -12,7 +12,7 @@ I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting i
 - 📚 While learning to master:
   - [Jetpack Compose](https://developer.android.com/develop/ui/compose) — because declarative UI is the future.
   - [Belajar Back-End Pemula dengan Python](https://www.dicoding.com/academies/743) from Dicoding — sharpening my full-stack instincts.
-  - [Belajar Analisis Data dengan Python](https://www.dicoding.com/academies/555) from Dicoding - exploring how to turn raw data into meaningful insights using Pandas, Matplotlib, Scikit-Learn, and friends.
+  - [Belajar Analisis Data dengan Python](https://www.dicoding.com/academies/555) from Dicoding - exploring how to turn raw data into meaningful insights using pandas, matplotlib, scikit-learn, and friends.
 
 ### **👨‍💻 Where I Work** ###
 - 🏦 Full-time Android Developer as part of BTNers @ [Bank BTN (Persero) Tbk](https://btn.co.id) — building the next-gen super app for the Indonesian banking experience, [bale by BTN](https://play.google.com/store/apps/details?id=id.co.btn.mobilebanking.android&hl=id).
