@@ -4,43 +4,39 @@ Welcome to my GitHub space — where lines of code meet stories of creativity, p
 
 I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting intuitive, scalable, and meaningful mobile experiences. My daily playground? Mostly Kotlin and Android Jetpack libraries. I believe building good software is like telling a good story — it should feel smooth, consistent, and purposeful.
 
-### **🛠️ What I’m Building (and Learning!)** ###
-- 🏗️ Currently rebuilding an all-new version of:
+### **What I’m Building (and Learning!)** ###
+- Currently rebuilding an all-new version of:
   - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) — A movie catalog app, now smarter and more beautiful than ever.
   - [Gitser](https://github.com/yumtaufikhidayat/gitser-kt) — A lightweight GitHub profile viewer.
 
-- 📚 While learning to master:
+- While learning to master:
   - [Jetpack Compose](https://developer.android.com/develop/ui/compose) — because declarative UI is the future.
   - [Belajar Back-End Pemula dengan Python](https://www.dicoding.com/academies/743) from Dicoding — sharpening my full-stack instincts.
   - [Belajar Analisis Data dengan Python](https://www.dicoding.com/academies/555) from Dicoding - exploring how to turn raw data into meaningful insights using pandas, matplotlib, scikit-learn, and friends.
 
-### **👨‍💻 Where I Work** ###
-- 🏦 Full-time Android Developer as part of BTNers @ [Bank BTN (Persero) Tbk](https://btn.co.id) — building the next-gen super app for the Indonesian banking experience, [bale by BTN](https://play.google.com/store/apps/details?id=id.co.btn.mobilebanking.android&hl=id).
-- 🧑‍🏫 External Code Reviewer @ [Dicoding Indonesia](https://dicoding.com) — giving feedback and reviewing code on various learning paths like:
-  - [Android Learning Path](https://www.dicoding.com/learningpaths/7)
-  - [Belajar Penerapan Machine Learning untuk Android](https://www.dicoding.com/academies/663)
-  - [Belajar Dasar UX Design](https://www.dicoding.com/academies/335)
+### **Where I Work** ###
+- Full-time Android Developer as part of BTNers @ [Bank BTN (Persero) Tbk](https://btn.co.id) — building the next-gen super app for the Indonesian banking experience, [bale by BTN](https://play.google.com/store/apps/details?id=id.co.btn.mobilebanking.android&hl=id).
+- External Code Reviewer @ [Dicoding Indonesia](https://dicoding.com) — giving feedback and reviewing code on various learning paths like: [Android Learning Path](https://www.dicoding.com/learningpaths/7), [Belajar Penerapan Machine Learning untuk Android](https://www.dicoding.com/academies/663), and [Belajar Dasar UX Design](https://www.dicoding.com/academies/335).
 
 
-### **📱 Featured Apps** ###
+### **Featured Apps** ###
 - 🎬 [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) - A beautifully crafted movie catalog app with bilingual support. Updated regularly. Just [download it](https://play.google.com/store/apps/details?id=com.taufik.themovieshow) and chill!
 - 🐙 [Gitser](https://github.com/yumtaufikhidayat/gitser-kt) - A minimalist yet powerful GitHub profile viewer built for simplicity and speed. [Download it](https://play.google.com/store/apps/details?id=com.taufik.gitser) and try it now!.
 - 🦸‍♂️ [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) - An app designed to help learners get better at Kotlin — wrapped with clean design and interactive content. Try the [prototype](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
   
-### **🤝 Let’s Collaborate** ###
-I’m always open to collaboration on exciting Android projects — whether it’s a new app idea, open-source project, or even a community initiative.
-💬 Got a question about Android, Kotlin, or mobile architecture? Let’s talk — I’ll share my perspective (and maybe a few Kotlin tricks 😉).
+### **Let’s Collaborate** ###
+I’m always open to collaboration on exciting Android projects — whether it’s a new app idea, open-source project, or even a community initiative. Got a question about Android, Kotlin, or mobile architecture? Let’s talk — I’ll share my perspective.
 
-### **📫 Reach me** ###
+### **Reach me** ###
 Feel free to reach me on [![GMail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yumtaufikhidayat@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yumtaufik) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/taufikhidayat#0671)
 
-### **🌐 More About Me** ###
+### **More About Me** ###
 You can also find my portfolio and writing here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufik-hidayat)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yumtaufikhidayat)
 [![Google_Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=5667961808037787969)
 
-### **⚒️ Tech Stacks** ###
+### **⚒Tech Stacks** ###
 From Kotlin to Compose, from Firebase to GitHub Actions — here’s what I work with:  
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://kotlinlang.org/)
@@ -76,7 +72,7 @@ From Kotlin to Compose, from Firebase to GitHub Actions — here’s what I work
 [![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=fff&style=for-the-badge)](https://reactivex.io/)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
 
-### **📊 Github Statistics** ###
+### **Github Statistics** ###
 <p align="left">
 <a href="https://github.com/yumtaufikhidayat">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yumtaufikhidayat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
