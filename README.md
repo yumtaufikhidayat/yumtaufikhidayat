@@ -37,7 +37,6 @@ You can also find my portfolio and writing here:
 [![Google_Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=5667961808037787969)
 
 ### **⚒Tech Stacks** ###
-From Kotlin to Compose, from Firebase to GitHub Actions — here’s what I work with:  
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
@@ -78,5 +77,3 @@ From Kotlin to Compose, from Firebase to GitHub Actions — here’s what I work
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumtaufikhidayat&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-Thanks for stopping by — and if you're building something awesome, I'd love to hear about it! 👋
