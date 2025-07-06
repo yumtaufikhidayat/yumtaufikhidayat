@@ -75,9 +75,7 @@ to get tips, published articles, and showcase apps
 
 ### **Github Statistics** ###
 <p align="left">
-  <a href="https://github.com/yumtaufikhidayat">
-    <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yumtaufikhidayat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img width="305" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumtaufikhidayat&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yumtaufikhidayat&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 49%; display: inline-block;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumtaufikhidayat&layout=compact&langs_count=8&theme=radical" style="max-width: 49%; display: inline-block;" />
 </p>
 
