@@ -1,6 +1,6 @@
 Hi there 👋. Nice to meet ya!
 
-Welcome to my GitHub space — where lines of code meet stories of creativity, problem-solving, and Android wizardry 🚀
+Welcome to my GitHub space — where lines of code meet stories of creativity, problem-solving, and Android wizardry
 
 I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting intuitive, scalable, and meaningful mobile experiences. My daily playground? Mostly Kotlin and Android Jetpack libraries. I believe building good software is like telling a good story — it should feel smooth, consistent, and purposeful.
 
@@ -30,14 +30,12 @@ I’m always open to collaborate on meaningful Android projects — be it a fres
 
 
 ### **Reach me**
-Feel free to reach me on [![GMail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yumtaufikhidayat@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yumtaufik) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/taufikhidayat#0671)
+[![GMail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yumtaufikhidayat@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yumtaufik) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/taufikhidayat#0671)
 
 ### **More About Me**
-Follow these platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufik-hidayat)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yumtaufikhidayat)
 [![Google_Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=5667961808037787969)
-to get tips, published articles, and showcase apps
 
 ### **Tech Stacks** ###
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
