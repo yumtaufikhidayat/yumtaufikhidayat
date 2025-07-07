@@ -29,7 +29,7 @@ I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting i
 I’m always open to collaborate on meaningful Android projects — be it a fresh app idea, an open-source initiative, or a community-driven collaboration. Got questions about Android, Kotlin, or mobile architecture? I’d love to chat, share ideas, or build something impactful together. Feel free to book a time with me: [cal.com/yumtaufikhidayat](https://cal.com/yumtaufikhidayat)
 
 
-### **Reach me**
+### **Reach Me**
 [![GMail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yumtaufikhidayat@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yumtaufik) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/taufikhidayat#0671)
 
 ### **More About Me**
