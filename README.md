@@ -1,12 +1,12 @@
 Hi there 👋. Nice to meet ya!
 
-Welcome to my GitHub space — where lines of code meet stories of creativity, problem-solving, and Android wizardry
+Welcome to my GitHub space — where lines of code meet stories of creativity, problem-solving, and Android wizardry.
 
 I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting intuitive, scalable, and meaningful mobile experiences. My daily playground? Mostly Kotlin and Android Jetpack libraries. I believe building good software is like telling a good story — it should feel smooth, consistent, and purposeful.
 
 ### **What I’m Building**
 - Revamping and evolving:
-  - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) — a smarter, cleaner movie catalog app.
+  - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) — a smarter and cleaner movie catalog app.
   - [Gitser](https://github.com/yumtaufikhidayat/gitser-kt) — a minimal GitHub user explorer.
 
 ### **What I’m Learning**
