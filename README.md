@@ -6,14 +6,11 @@ I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting i
 
 ### **What I’m Building**
 - Revamping and evolving:
+  - [ApplyMate](https://github.com/yumtaufikhidayat/ApplyMate-Kt) - A fully offline-first Android application designed to help jobseekers track where they have applied, monitor application progress, and receive timely reminders — all without requiring internet connectivity.
   - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) — a smarter and cleaner movie catalog app.
-  - [Gitser](https://github.com/yumtaufikhidayat/gitser-kt) — a minimal GitHub user explorer.
 
 ### **What I’m Learning**
 - [Jetpack Compose](https://developer.android.com/develop/ui/compose) — because declarative UI is the future.
-- [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184) — exploring supervised & unsupervised learning, and model performance techniques.
-- [Prompt Engineering untuk Software Developer](https://www.dicoding.com/academies/753) — putting prompt engineering into practice with patterns and best practices to supercharge the software development workflow.
-- [Belajar Analisis Data dengan Python](https://www.dicoding.com/academies/555) — exploring insights with pandas, matplotlib, scikit-learn, and other Python-based tools.
 
 ### **Where I Work**
 - Full-time Android Developer @ [Bank BTN (Persero) Tbk](https://btn.co.id) — building the next-gen super app to help users get mortgage information: [bale by BTN](https://play.google.com/store/apps/details?id=id.co.btn.mobilebanking.android&hl=id).
@@ -21,6 +18,7 @@ I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting i
 
 
 ### **Featured Apps**
+- [ApplyMate](https://github.com/yumtaufikhidayat/ApplyMate-Kt) - A fully offline-first Android application designed to help jobseekers track where they have applied, monitor application progress, and receive timely reminders — all without requiring internet connectivity. Built using Jetpack Compose, Kotlin, MVVM, Clean Architecture, Room, and Hilt.
 - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) - A beautifully crafted movie catalog app with bilingual support. Built using Kotlin, MVVM, Retrofit, and Hilt. Updated regularly. It's live on the [Play Store](https://play.google.com/store/apps/details?id=com.taufik.themovieshow) - go check it out!
 - [Gitser](https://github.com/yumtaufikhidayat/gitser-kt) - A minimalist yet powerful GitHub profile viewer built for simplicity and speed. Built using Kotlin, MVVM, and Retrofit. [Download it](https://play.google.com/store/apps/details?id=com.taufik.gitser) and give it a try!
 - [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) - An app designed to help learners get better at Kotlin — wrapped with clean design and interactive content. Try the [prototype](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
