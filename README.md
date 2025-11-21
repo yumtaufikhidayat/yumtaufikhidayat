@@ -6,7 +6,7 @@ I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting i
 
 ### **What I’m Building**
 - Revamping and evolving:
-  - [ApplyMate](https://github.com/yumtaufikhidayat/ApplyMate-Kt) - A fully offline-first Android application designed to help jobseekers track where they have applied, monitor application progress, and receive timely reminders — all without requiring internet connectivity.
+  - [ApplyMate](https://github.com/yumtaufikhidayat/ApplyMate-Kt) - A fully offline-first Android application designed to help jobseekers track where they have applied, monitor application progress, and receive timely reminders.
   - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) — a smarter and cleaner movie catalog app.
 
 ### **What I’m Learning**
@@ -18,7 +18,7 @@ I’m Taufik Hidayat, a passionate Android Developer who finds joy in crafting i
 
 
 ### **Featured Apps**
-- [ApplyMate](https://github.com/yumtaufikhidayat/ApplyMate-Kt) - A fully offline-first Android application designed to help jobseekers track where they have applied, monitor application progress, and receive timely reminders — all without requiring internet connectivity. Built using Jetpack Compose, Kotlin, MVVM, Clean Architecture, Room, and Hilt.
+- [ApplyMate](https://github.com/yumtaufikhidayat/ApplyMate-Kt) - A fully offline-first Android application designed to help jobseekers track where they have applied, monitor application progress, and receive timely reminders. Built using Jetpack Compose, Kotlin, MVVM, Clean Architecture, Room, and Hilt.
 - [The Movie Show](https://github.com/yumtaufikhidayat/the-movie-show-kt) - A beautifully crafted movie catalog app with bilingual support. Built using Kotlin, MVVM, Retrofit, and Hilt. Updated regularly. It's live on the [Play Store](https://play.google.com/store/apps/details?id=com.taufik.themovieshow) - go check it out!
 - [Gitser](https://github.com/yumtaufikhidayat/gitser-kt) - A minimalist yet powerful GitHub profile viewer built for simplicity and speed. Built using Kotlin, MVVM, and Retrofit. [Download it](https://play.google.com/store/apps/details?id=com.taufik.gitser) and give it a try!
 - [Kotlin Hero](https://github.com/yumtaufikhidayat/kotlin-hero) - An app designed to help learners get better at Kotlin — wrapped with clean design and interactive content. Try the [prototype](https://www.figma.com/proto/NwDrgYPehVbxuSRwQNxRfs/Latihan-UX-Designer?node-id=43:590&scaling=scale-down&page-id=37:2&starting-point-node-id=43:590).
