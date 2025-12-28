@@ -63,6 +63,7 @@ I’m always open to collaborate on meaningful Android projects — be it a fres
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions/)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)](https://about.gitlab.com/)
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://jira.atlassian.com/)
