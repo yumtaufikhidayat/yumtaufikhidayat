@@ -70,7 +70,6 @@ I’m always open to collaborate on meaningful Android projects — be it a fres
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
-[![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=fff&style=for-the-badge)](https://reactivex.io/)
 
 ### **Github Statistics** ###
 <p align="left">
