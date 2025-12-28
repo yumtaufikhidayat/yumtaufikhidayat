@@ -43,6 +43,7 @@ I’m always open to collaborate on meaningful Android projects — be it a fres
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/pycharm/)
 [![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-A4C639?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/)
 [![MVVM](https://img.shields.io/badge/MVVM-E62431?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/topic/libraries/architecture/viewmodel)
 [![MVP](https://img.shields.io/badge/MVP-113155?style=for-the-badge&logo=android&logoColor=white)](https://github.com/raxden/android-mvp)
