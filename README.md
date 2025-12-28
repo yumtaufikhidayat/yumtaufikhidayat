@@ -56,7 +56,7 @@ I’m always open to collaborate on meaningful Android projects — be it a fres
 [![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)](https://square.github.io/retrofit/)
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose/)
-[![XML](https://img.shields.io/badge/XML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)](https://developer.android.com/reference/android/util/Xml)
+[![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)](https://developer.android.com/reference/android/util/Xml)
 [![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-0000FF?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/hilt-android/)
 [![Dagger2](https://img.shields.io/badge/Dagger2-339933?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/dependency-injection/dagger-android)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
