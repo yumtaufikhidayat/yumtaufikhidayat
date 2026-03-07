@@ -48,6 +48,7 @@ I’m always open to collaborate on meaningful Android projects — be it a fres
 [![MVP](https://img.shields.io/badge/MVP-113155?style=for-the-badge&logo=android&logoColor=white)](https://github.com/raxden/android-mvp)
 [![MVVM](https://img.shields.io/badge/MVVM-E62431?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/topic/libraries/architecture/viewmodel)
 [![MVI](https://img.shields.io/badge/MVI-FF8126?style=for-the-badge&logo=android&logoColor=white)](https://github.com/raxden/android-mvi)
+[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-008FC7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/raxden/android-mvi)
 [![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=for-the-badge)](https://gradle.org/)
 [![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
